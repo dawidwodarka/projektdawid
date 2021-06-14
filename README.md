@@ -1,6 +1,6 @@
 # projektdawid
 
-**Tradeforce to strona dostarczająca najważniejsze informacje z rynków finansowych na bieżąco.
+**Tradeforce to strona dostarczająca najważniejsze informacje z rynków finansowych na bieżąco dostępna pod adresem www.tradeforce.pl
 
 1. Możliwość stworzenia konta, logowania się (udało się)
 2. Dostarczanie najważniejszych notowań LIVE z rynków finansowych. (Udało się)
